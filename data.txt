@@ -1,0 +1,2 @@
+{"telegram_id":"ID TELEGRAM","telegram_name":"FULL NAME","referral_code":"","is_premium":true}
+{"telegram_id":"ID TELEGRAM","telegram_name":"FULL NAME","referral_code":"","is_premium":false}
